@@ -1,0 +1,8 @@
+,,,,,,,,,,,,,,,
+2007,2219275,,,,,,,,,Column1,Column2,,,,
+2008,14390275,,,,,,,,,Component,Purpose in Excel,,,,
+2009,46436325,,,,,,,,,Formulas,"Used to clean data (e.g., =VALUE(LEFT(TRIM(O2), 4)) for year extraction).",,,,
+2010,122050200,,,,,,,,,Pivot Tables,"Used for aggregation and summarization (e.g., total loan amount by year).",,,,
+2011,260506575,,,,,,,,,Charts,"Used to create the visual proof (e.g., the Scatter Plot for the trend).",,,,
+,,,,,,,,,,Trendline Equation & R²,"The technical output from the chart (e.g., y=2.5E+07x?5E+10).",,,,
+,,,,,,,,,,,,,,,
