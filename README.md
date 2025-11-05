@@ -59,3 +59,12 @@ Based on the pipeline's output, the following policy changes are recommended for
 | **`Analysis/SQL_Script_Foundation.sql`** | Placeholder for the primary SQL script used for data preparation and feature engineering. |
 | **`Data/`** | Placeholder for the raw loan data files (`loan_data_source.csv`). |
 | **`README.md`** | This project overview. |
+
+----
+
+## 📧 Contact
+
+- **👩‍💻 Your Name:** Akshaya A
+- **📩 Email:** aakshaya.ashok@gmail.com
+- **🌐 GitHub:** [http:/AkshayaAshok28]
+
